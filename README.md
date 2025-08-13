@@ -1,2 +1,3 @@
 # RefereeTrainingApp
-this repo is a mobile app that train soccer referees
+
+This repository is a mobile app that trains soccer referees.
